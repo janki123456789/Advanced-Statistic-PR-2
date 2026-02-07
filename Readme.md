@@ -37,7 +37,8 @@ The dataset (`student_dataset.csv`) contains academic and behavioral information
 - `final_exam_result` – Exam result (Pass/Fail)  
 
 ### 🔗 Dataset Link
-[student_dataset.csv](student_dataset.csv)
+
+- [student_dataset.csv](./student_dataset.csv)
 
 ---
 
@@ -82,7 +83,7 @@ A Venn diagram is used to visualize:
 - Intersection representing students satisfying **both conditions**
 
 #### 🖼 Venn Diagram Output
-![Vennchart](vennchart.png)
+![Vennchart](./Vennchart.png)
 
 This visualization helps in understanding **overlapping academic behaviors**.
 
@@ -146,3 +147,4 @@ This section demonstrates **decision-making under uncertainty**.
 ## Author
 
 Janki Dholariya
+
