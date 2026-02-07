@@ -83,7 +83,8 @@ A Venn diagram is used to visualize:
 - Intersection representing students satisfying **both conditions**
 
 #### 🖼 Venn Diagram Output
-![Vennchart](./Vennchart.png)
+
+- ![Vennchart.png](./Vennchart.png)
 
 This visualization helps in understanding **overlapping academic behaviors**.
 
@@ -147,4 +148,5 @@ This section demonstrates **decision-making under uncertainty**.
 ## Author
 
 Janki Dholariya
+
 
